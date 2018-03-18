@@ -1,6 +1,13 @@
 #include <Tsunami.h>            // Include the Tsunami library header
 Tsunami tsunami;                // Our Tsunami object
 
+////
+// Uses the demo files and basic setup from SparkFun Tsunami Hookup Guide.
+// https://learn.sparkfun.com/tutorials/tsunami-hookup-guide
+
+// Load the tsunami demo files onto the SD card.
+// https://cdn.sparkfun.com/assets/learn_tutorials/6/2/2/tsunami-demo-files.zip
+
 void setup() {
   
   // Serial monitor
